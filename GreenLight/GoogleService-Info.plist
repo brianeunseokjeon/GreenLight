@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>506468910500-3gr52oagirm6cs1bp49gnfpfqni6fqdt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.506468910500-3gr52oagirm6cs1bp49gnfpfqni6fqdt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA1XAWrGT7jXrsWtkcQMVm1O6JTPW4uzQw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>506468910500</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>brian.GreenLight</string>
+	<key>PROJECT_ID</key>
+	<string>greenlight-42932</string>
+	<key>STORAGE_BUCKET</key>
+	<string>greenlight-42932.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:506468910500:ios:ea730d30420e7099</string>
+	<key>DATABASE_URL</key>
+	<string>https://greenlight-42932.firebaseio.com</string>
+</dict>
+</plist>
